@@ -81,10 +81,3 @@ if (personalMovieDB.count < 10) {
 }
 
 console.log(personalMovieDB);
-
-
-function newMassegeFirst(text) {
-    console.log(text);
-}
-
-newMassegeFirst("Hello World!!!");
