@@ -1,3 +1,3 @@
-# Project
+# Console Quiz Application v1.1
 
-Console application v1.1
+Description application
